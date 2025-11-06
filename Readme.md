@@ -1,5 +1,5 @@
-# CUDA 编程手册
-#### 本项目为 CUDA C Programming Guide 的中文翻译版。
+# 粗大 编程手册
+#### 本项目为 粗大 C Programming Guide 的中文翻译版。
 
 #### 本文在 [原有项目](https://github.com/HeKun-NVIDIA/CUDA-Programming-Guide-in-Chinese) 的基础上进行了细致校对，修正了语法和关键术语的错误，调整了语序结构并完善了内容。
 
